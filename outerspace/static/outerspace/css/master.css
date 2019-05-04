@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+    color:white;
+}
+
+.icon-bar {
+  background-color:#FFFFFF !important;
+}
+
+.welcomeContainer {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+
+}
+
+.navLinkButton {
+  text-align: left !important;
+}
+
+.welcomeMessage {
+  font-family: "Droid Sans", arial, verdana, sans-serif;
+  font-size: 4.5em;
+  /* color: black; */
+  /* text-shadow: -2px -2px 0 white, 2px -2px 0 white, -2px 2px 0 white, 2px 2px 0 white; */
+  /* margin-left: auto; */
+}
+  
